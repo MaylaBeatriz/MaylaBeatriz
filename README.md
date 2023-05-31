@@ -1,5 +1,5 @@
 ### Olá, sou Mayla Beatriz!
-- 🌱 Aprendendo sobre Frontend e DevOps
+- 🌱 Aprendendo sobre Administração de Banco de Dados
 - 📫 Contato: <a href = "mailto:maylaetb@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a> <a href="https://www.linkedin.com/in/maylabeatriz/" target="_blank">
